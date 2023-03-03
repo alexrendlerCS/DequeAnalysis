@@ -1,0 +1,25 @@
+Mary Smith, 0
+Anna Adams, 1
+Emma Bates, 1
+Elizabeth Carson, 0
+Minnie Davidson, 1
+Margaret Ellis, 0
+Ida Frank, 1
+Alice George, 1
+Bertha Harris, 1
+Sarah Ingles, 1
+Annie Jackson, 0
+Clara Kendrick, 0
+Ella Lutz, 1
+Florence Mann, 0
+Cora Neilsen, 0
+Martha O'hara, 0
+Laura Paquin, 1
+Nellie Quinn, 1
+Grace Roth, 0
+Carrie Statson, 1
+Maude Turk, 0
+Mabel Ulrich, 1
+Bessie van Ophem, 0
+Jennie Watts, 1
+Gertrude Xavier, 1

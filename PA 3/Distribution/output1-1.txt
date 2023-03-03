@@ -1,0 +1,26 @@
+50,5
+name: Mary Smith, member: false, request number: 1
+name: Anna Adams, member: true, request number: 2
+name: Emma Bates, member: true, request number: 3
+name: Minnie Davidson, member: true, request number: 5
+name: Ida Frank, member: true, request number: 7
+name: Alice George, member: true, request number: 8
+name: Bertha Harris, member: true, request number: 9
+name: Sarah Ingles, member: true, request number: 10
+name: Ella Lutz, member: true, request number: 13
+name: Laura Paquin, member: true, request number: 17
+name: Nellie Quinn, member: true, request number: 18
+name: Carrie Statson, member: true, request number: 20
+name: Mabel Ulrich, member: true, request number: 22
+name: Jennie Watts, member: true, request number: 24
+name: Gertrude Xavier, member: true, request number: 25
+name: Elizabeth Carson, member: false, request number: 4
+name: Margaret Ellis, member: false, request number: 6
+name: Annie Jackson, member: false, request number: 11
+name: Clara Kendrick, member: false, request number: 12
+name: Florence Mann, member: false, request number: 14
+name: Cora Neilsen, member: false, request number: 15
+name: Martha O'hara, member: false, request number: 16
+name: Grace Roth, member: false, request number: 19
+name: Maude Turk, member: false, request number: 21
+name: Bessie van Ophem, member: false, request number: 23
